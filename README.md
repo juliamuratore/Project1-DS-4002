@@ -37,6 +37,7 @@ Welcome to our Project 1 info!
       * sb.csv - original data for Simone Biles
       * clean_jo - clean data for Jonathan Owens
       * clean_sb - clean data for Simone Biles
+      * Data Appendix
   * OUTPUT
       * Figures
       * Tables
