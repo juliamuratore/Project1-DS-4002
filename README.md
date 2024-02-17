@@ -46,9 +46,9 @@ Welcome to our Project 1 info!
  
 ## Section 3: Instructions for reproducibility
 1. Preprocessing
-> In order to collect sentiment data from Instagram posts after Jonathan Owens’ interview on The Pivot, the profiles of Simone Biles and Jonathan Owens need to be accessed. This involves searching their profiles on Instagram and choosing an equal number of posts dated December 19, 2023 and after from each profile, as well as their "pinned" posts. Posts where the user limited comments can be excluded. After the data has been identified, it can be downloaded for further analysis.
+> In order to collect sentiment data from Instagram posts after Jonathan Owens’ interview on The Pivot, the profiles of Simone Biles and Jonathan Owens need to be accessed. This involves searching their profiles on Instagram and choosing an equal number of posts dated December 19, 2023 and after from each profile, as well as their "pinned" posts. Posts where the user limited comments can be excluded. After the data has been identified, it can be downloaded for further analysis. For the sake of our analysis, we scaped comments from the three posts made by each individual made immediately following December 19, 2023 and each of their three pinned posts. In total, the comments were scrapped from 6 posts each. 
 2. Scraping Data from Instagram
-> Comments on each Instagram post will be scraped using the chrome extension “Instagram Comment Scraper.” This allows 100 comments per post to be downloaded as a CSV.
+> Comments on each Instagram post will be scraped using the chrome extension “Instagram Comment Scraper.” This allows 100 comments per post to be downloaded as a CSV. For each individual, six posts need to be scraped meaning there will be a total of 600 comments scraped. 
 3. Cleaning Data
 > Observe data for each individual. Cleaning data includes changing "Publish Date" to only include the date rather than the date AND time of each comment. The next step would be to drop rows with missing values.
 4. Sentiment Analysis
