@@ -30,8 +30,9 @@ Welcome to our Project 1 info!
   * LICENSE.md
       * Terms and conditions
   * SCRIPTS
-      * LIST ALL NAMES OF FILES
-      * Project_1_Master_Script
+      * Project_1_Data_Cleaning
+      * Project_1_Exploratory_Plots
+      * Project_1_VADER
   * DATA
       * jo.csv - original data for Jonathan Owens
       * sb.csv - original data for Simone Biles
