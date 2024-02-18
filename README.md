@@ -40,10 +40,31 @@ Welcome to our Project 1 info!
       * clean_sb - clean data for Simone Biles
       * Data Appendix
   * OUTPUT
-      * Figures
-      * Tables
-      * Word Clouds
+      * Comment_Length_Scatter
+      * Jonathan_Owens_Comment_Dates
+      * Jonathan_Owens_Sentiment_Analysis
+      * Jonathan_Owens_Word_Cloud
+      * Simone_Biles_Comment_Dates
+      * Simone_Biles_Sentiment_Analysis
+      * Simone_Biles_Word_Cloud
   * REFERENCES
+      * [1] E. Giambalvo, “Simone Biles dazzles with difficulty, but execution makes her unstoppable,” Washington Post, Oct. 05, 2023. Available: https://www.washingtonpost.com/sports/olympics/2023/10/05/simone-biles-gymnastics-scores-execution/. [Accessed: Jan. 30, 2024]
+
+      * [2] “USA Gymnastics | Skills Named for U.S. Gymnasts.” Available: https://members.usagym.org/pages/gymnastics101/skillsNamed.html. [Accessed: Jan. 30, 2024]
+
+      * [3] “Jonathan Owens Stats, News and Video - DB,” NFL.com. Available: https://www.nfl.com/players/jonathan-owens/. [Accessed: Jan. 30, 2024]
+
+      * [4] “New Packers safety Jonathan Owens playing with ‘chip on my shoulder’ after starting career undrafted,” NFL.com. Available: https://www.nfl.com/news/new-packers-safety-jonathan-owens-playing-with-chip-on-my-shoulder-after-startin. [Accessed: Jan. 30, 2024]
+
+      * [5] “Simone Biles reacts to backlash over husband Jonathan Owens saying he didn’t know her before they dated,” TODAY.com, Dec. 24, 2023. Available: https://www.today.com/popculture/jonathan-owens-simone-biles-how-they-met-rcna130830. [Accessed: Jan. 30, 2024]
+
+      * [6] “Features and Updates — VaderSentiment 3.3.1 documentation.” Available: https://vadersentiment.readthedocs.io/en/latest/pages/features_and_updates.html. [Accessed: Jan. 30, 2024]
+
+      * [7]
+“Instagram Comment Scraper.” Available: https://chromewebstore.google.com/detail/instagram-comment-scraper/ldhjpljmgnggmkpcgaicmocfoefbcojl?hl=en-GB&pli=1. [Accessed: Feb. 08, 2024]
+      * [8]
+“Welcome to VaderSentiment’s documentation! — VaderSentiment 3.3.1 documentation.” Available: https://vadersentiment.readthedocs.io/en/latest/. [Accessed: Feb. 08, 2024]
+
  
 ## Section 3: Instructions for reproducibility
 1. Preprocessing
